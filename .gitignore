@@ -1,0 +1,6 @@
+emu
+h8300-x86-64.inc
+h8300.inc
+ir-server
+rom.coff
+
